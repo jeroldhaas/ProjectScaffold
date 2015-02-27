@@ -1,7 +1,8 @@
-F# ProjectScaffold
+F# ProjectScaffold (JeroldHaas Extented Core Version)
 =======================
 
-A prototypical F# library (file system layout and tooling), recommended by the F# Software Foundation.
+A prototypical F# library (file system layout and tooling), recommended by the F# Software Foundation,
+and extended with additional tooling and core extensions by Jerold Haas.
 
 This scaffolding can be used to generate the suggested structure of a typical F# library.
 _(NOTE: this layout needs adjusting when authoring a Type Provider. In that case you should use a separate Tests solution)_ 

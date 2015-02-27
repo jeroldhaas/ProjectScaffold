@@ -13,3 +13,7 @@
 ### 1.0 - Unreleased
 * More awesome stuff comming
 * Added SourceLink for Source Indexing PDB
+
+### 1.0br0.1 - Personal-Extended-Core Branch
+* Added what I think is a start for a good extended core
+* Modified README file to indicate personal branch
