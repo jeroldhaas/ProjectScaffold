@@ -1,4 +1,4 @@
-F# ProjectScaffold (JeroldHaas Extented Core Version)
+F# ProjectScaffold (Extended Core Pre-Pack)
 =======================
 
 A prototypical F# library (file system layout and tooling), recommended by the F# Software Foundation,
