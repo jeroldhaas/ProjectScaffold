@@ -6,5 +6,10 @@ nuget NUnit.Runners
 nuget Nuget.CommandLine
 nuget FAKE
 nuget SourceLink.Fake
+nuget Chessie
+nuget ExtCore
+nuget FSharpx.Collections
+nuget FSharpx.Collections.Experimental
+nuget FSharpx.Control
 
 github fsharp/FAKE modules/Octokit/Octokit.fsx
